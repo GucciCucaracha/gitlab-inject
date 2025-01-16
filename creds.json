@@ -1,0 +1,6 @@
+{
+	"gitlabURLSource": "https://xxx.xxx.xx.xx",
+	"privateTokenSource": "glpat-xxxxxx",
+	"gitlabURLDest": "https://xxx.xxx.xxx.xx",
+	"privateTokenDest": "glpat-xxxxx"
+}
